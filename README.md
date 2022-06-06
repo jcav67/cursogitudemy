@@ -6,3 +6,5 @@ esto es desde github
 
 # pd desde github
 Estos cambios se hicieron locales y se subieron desde VSCode
+# pd desde local
+Estos cambios se hicieron locales y se subieron desde VSCode
